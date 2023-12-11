@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "map.galliexpress",
+      "package_name": "com.kaha_hits.kaha",
       "sha256_cert_fingerprints": [
-        "B4:5C:FB:B4:13:5A:81:0C:C5:66:05:AA:DC:F6:63:FB:DD:52:04:13:4F:B5:54:65:70:B0:6C:3C:1B:0C:90:FC"
+        "1F:E2:30:E1:7D:32:6F:68:FE:06:67:E0:78:A0:64:29:E1:1F:5F:1B:BD:F1:28:CB:BD:B6:EE:93:78:F3:8E:24"
       ]
     }
   }
