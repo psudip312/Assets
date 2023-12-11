@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "map.galliexpress",
+      "sha256_cert_fingerprints": [
+        "B4:5C:FB:B4:13:5A:81:0C:C5:66:05:AA:DC:F6:63:FB:DD:52:04:13:4F:B5:54:65:70:B0:6C:3C:1B:0C:90:FC"
+      ]
+    }
+  }
+]
